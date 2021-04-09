@@ -5,4 +5,4 @@
 - 💬 Ask me about JavaScript, TypeScript, GraphQL, React, CSS...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/xguhkaa/)
 
-[![Caique github stats](https://github-readme-stats.vercel.app/api?username=xguhkaa)](https://github.com/xguhkaa)
+[![Caique github stats](https://github-readme-stats.vercel.app/api?username=xguhkaa&show_owner=false&hide_border=false)](https://github.com/xguhkaa)
