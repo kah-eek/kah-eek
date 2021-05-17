@@ -1,6 +1,6 @@
 ### Hey, I'm Caique Oliveira! 👋
 
-- 🔭 I’m currently working on @linte
+- 🔭 I’m currently working on @betrybe
 - 🌱 I’m currently learning #swift
 - 💬 Ask me about JavaScript, TypeScript, GraphQL, React, CSS...
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/xguhkaa/)
