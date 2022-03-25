@@ -1,4 +1,4 @@
-### Hey, I'm Caique! 👋
+### Hey, I'm Caique! 👋🏻
 
 <!-- - 🔭 I’m currently working on @betrybe -->
 - 🌱 I’m currently learning #iosdevelopment
