@@ -1,7 +1,7 @@
 ### Hey, I'm Caique! 👋🏻
 
 <!-- - 🔭 I’m currently working on @betrybe -->
-- 🌱 I’m currently learning #iosdevelopment
+- 🌱 I’m currently learning #microfrontends
 - 💬 Ask me about JavaScript, TypeScript, GraphQL, React, CSS...
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/0xc41qu3/)
 
